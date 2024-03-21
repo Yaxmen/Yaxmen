@@ -50,5 +50,6 @@
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Yaxmen)  
 
 <div algin="right">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/Yaxmen)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/yasmimkarollinne/)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>(https://stackoverflow.com/users/18374321)
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> 
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>
 </div>
