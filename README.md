@@ -1,6 +1,5 @@
 <h2 align="left">Hi there 👋, I'm Yasmim</h2>
 
-- 😄 Pronouns: she/her 
 - 🔭 I’m currently working on NTT DATA Inc. 
 - 👯 I'm looking to collaborate on Software Development and Process Automation
 - 📫 How to reach me: yasmimkarollinne@gmail.com / yasmimkarollinne@outlook.com.br
