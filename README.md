@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on **Software Development and RPA Process Automation**
 - 💬 Ask me about **Python, PowerShell, Azure, AWS, DevOpsSec, DevOps, RPA Automation, Splunk and Zabbix**
 - 📫 How to reach me **yasmimkarollinne@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/yasmimkarollinne/](https://www.linkedin.com/in/yasmimkarollinne/)
 - ⚡ Fun fact **I like to travel by motorcycle, I'm a Gamer in my spare time, I'm a professional Jiu-jitsu fighter, currently a blue belt and I'm a mother of 5 felines.**
 
 <h3 align="left">Languages and Tools:</h3>
