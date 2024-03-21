@@ -1,10 +1,9 @@
-<h1 align="left">Hi there 👋, I'm Yasmim</h1>
-<h2 align="left">I'm Software Developer from NTT DATA Inc.</h2>
+<h2 align="left">Hi there 👋, I'm Yasmim</h2>
 
-- 🔭 I’m currently working on NTT DATA Inc. 
-- 👯 I’m looking to collaborate on Software Development
-- 📫 How to reach me: yasmimkarollinne@gmail.com 
 - 😄 Pronouns: she/her 
+- 🔭 I’m currently working on NTT DATA Inc. 
+- 👯 I'm looking to collaborate on Software Development and Process Automation
+- 📫 How to reach me: yasmimkarollinne@gmail.com / yasmimkarollinne@outlook.com.br
 - ⚡ Fun fact: I like to travel by motorcycle, I'm a Gamer in my spare time, I've been practicing Jiu-Jitsu for 5 years and I'm a mother of 5 felines. 
 
 <h3 align="left">Skills</h3>
