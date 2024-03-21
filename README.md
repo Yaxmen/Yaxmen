@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Yasmim
-#### I'm Software Developer from NTT DATA Inc.
+<h1 align="left">Hi there 👋, I'm Yasmim</h1>
+<h2 align="left">I'm Software Developer from NTT DATA Inc.</h2>
 
 - 🔭 I’m currently working on NTT DATA Inc. 
 - 👯 I’m looking to collaborate on Software Development
@@ -46,18 +46,5 @@
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/> </a>
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">Certification</h3>
-
-<p align="left"> 
-  <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftazure/microsoftazure-original.svg" alt="AI-900" width="40" height="40"/> </a>
-  <a href="https://www.certiprof.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="DEPC" width="40" height="40"/> </a>
-  <a href="https://www.fortinet.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fortinet/fortinet-icon.svg" alt="NSE 2" width="40" height="40"/> </a>
-  <a href="https://www.certiprof.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scrum/scrum-original.svg" alt="SFPC" width="40" height="40"/> </a>
-  <a href="https://www.fundacaobradesco.com.br/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/itil/itil-original.svg" alt="ITIL" width="40" height="40"/> </a>
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Power User" width="40" height="40"/> </a>
-</p>
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Yaxmen)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yaxmen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yasmimkarollinne/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18374321)
