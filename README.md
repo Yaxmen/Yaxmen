@@ -1,3 +1,78 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animated README</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      overflow: hidden;
+      background: linear-gradient(to right, #ff7e5f, #feb47b);
+      animation: gradientAnimation 10s ease infinite alternate;
+    }
+    
+    #header {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      color: #fff;
+    }
+
+    h2 {
+      font-size: 3em;
+      margin-bottom: 20px;
+    }
+
+    .typed-cursor {
+      opacity: 1;
+      animation: blink 0.7s infinite;
+    }
+
+    @keyframes blink {
+      0% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+
+    @keyframes gradientAnimation {
+      0% {
+        background-position: 0% 50%;
+      }
+      100% {
+        background-position: 100% 50%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="header">
+    <h2>Welcome to my README</h2>
+    <div id="typed"></div>
+  </div>
+
+  <script>
+    var typed = new Typed('#typed', {
+      strings: ['Hi there 👋, I\'m Yasmim'],
+      typeSpeed: 70,
+      loop: false
+    });
+  </script>
+</body>
+</html>
+
 <h2 align="left">Hi there 👋, I'm Yasmim</h2>
 
 - 🔭 **I’m currently working on:** NTT DATA Inc. 
