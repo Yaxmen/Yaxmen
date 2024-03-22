@@ -47,5 +47,5 @@
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaxmen&show_icons=true&locale=en&layout=compact" alt="yaxmen" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&locale=en" alt="yaxmen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaxmen&show_icons=true&locale=en&layout=compact" alt="yaxmen" /></p>
