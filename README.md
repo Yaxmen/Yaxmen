@@ -1,11 +1,11 @@
 <h2 align="left">Hi there 👋, I'm Yasmim</h2>
 
-- 🔭 I’m currently working on NTT DATA Inc. 
-- 👯 I'm looking to collaborate on Software Development and Process Automation
-- 📫 How to reach me: yasmimkarollinne@gmail.com / yasmimkarollinne@outlook.com.br
-- ⚡ Fun fact: I like to travel by motorcycle, I'm a Gamer in my spare time, I've been practicing Jiu-Jitsu and I'm a mother of 5 felines. 
+- 🔭 **I’m currently working on:** NTT DATA Inc. 
+- 👯 **I'm looking to collaborate on:** Software Development and Process Automation
+- 📫 **How to reach me:** yasmimkarollinne@gmail.com / yasmimkarollinne@outlook.com.br
+- ⚡ **Fun fact:** I like to travel by motorcycle, I'm a Gamer in my spare time, I've been practicing Jiu-Jitsu and I'm a mother of 5 felines. 
 
-<h3 align="left">Skills</h3>
+<h2 align="left">Skills</h2>
 
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
