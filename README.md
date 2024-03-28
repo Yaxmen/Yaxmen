@@ -9,6 +9,4 @@
 
 [![Skills](https://devicons.dev.br/icons?icon=Azure,AWS,VSCode,Eclipse,Selenium,Python,Powershell,Java,HTML,Bash,CS,Ansible,Postman,FastAPI,Docker,Kubernetes,PostgreSQL,SQLite,MySQL,MongoDB,Linux,Regex,RabbitMQ,Kafka,Grafana,Github,Git,Firebase,Figma,Photoshop,Discord&size=48&theme=dark&perline=13)](https://devicons.dev.br/)
 
-&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yaxmen&" alt="yaxmen" />
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/yasmimkarollinne)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaxmen&show_icons=true&locale=en&layout=compact" alt="yaxmen" />
