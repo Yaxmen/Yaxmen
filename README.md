@@ -1,9 +1,9 @@
 <h2 align="left">Hi there 👋, I'm Yasmim</h2>
 
-- 🔭 **Current Position:** NTT DATA Inc. 
+- 🔭 **Current Working:** NTT DATA Inc. 
 - 👯 **Collaboration Interests:** Software Development and Process Automation
 - 📫 **Contact:** yasmimkarollinne@gmail.com / yasmimkarollinne@outlook.com.br
-- ⚡ **Fun Fact:** I enjoy motorcycle travel, gaming, practicing Jiu-Jitsu, and caring for my five feline companions.
+- ⚡ **Fun Fact:** I like traveling by motorcycle, playing video games, practicing Jiu-Jitsu and taking care of my feline children.
 
 <h2 align="left">Skills</h2>
 
