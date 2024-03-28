@@ -11,3 +11,5 @@
 
 &nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yaxmen&" alt="yaxmen" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaxmen&show_icons=true&locale=en&layout=compact" alt="yaxmen" />
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/yasmimkarollinne)
