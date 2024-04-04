@@ -2,12 +2,13 @@
 Hi 👋. <br>
 I am a Developer who lives in Brazil and current working at NTT DATA Inc. <br>
 I have experience in Backend Development, Process Automation and DevOps. <br>
-3x Microsoft Certified: AI-900, AZ-900, MS-900. </h4>
+3x Microsoft Certified: AI-900, AZ-900, MS-900. <br>
 
-<p align="center"> 
-<img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581995052895&text=Olá!"/></a>&nbsp
-<img src="https://img.shields.io/badge/-Microsoft-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:yasmimkarollinne@outlook.com.br"/></a>&nbsp
-</p>
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)](https://api.whatsapp.com/send?phone=5581995052895&text=Olá!) <br>
+[![Outlook Badge](https://img.shields.io/badge/-Microsoft-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:yasmimkarollinne@outlook.com.br)](mailto:yasmimkarollinne@outlook.com.br) <br>
+
+</h4>
+
 
 <h3 align="center">Technologies & Tools 🛠</h3>
 
@@ -26,3 +27,6 @@ I have experience in Backend Development, Process Automation and DevOps. <br>
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaxmen&show_icons=true&locale=en&layout=compact&theme=dark" alt="yaxmen" />
 </p>
+
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)](https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)
+[![Outlook Badge](https://img.shields.io/badge/-Microsoft-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:yasmimkarollinne@outlook.com.br)](mailto:yasmimkarollinne@outlook.com.br)
