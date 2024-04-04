@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=708090&height=150&section=header&text=Yasmim&fontSize=40&fontAlign=85&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=363636&height=150&section=header&text=Welcome&fontSize=40&fontAlign=85&fontColor=ffffff)
 
 <h5 align="center">
 Hi. I am a Developer who lives in Brazil and Current Working at NTT DATA Inc. <br>
