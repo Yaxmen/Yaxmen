@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2F4F4F&height=250&section=header&text=Yasmim&fontSize=40&fontAlign=58&fontColor=ffffff)
-
-<h2 align="left">Hi there, I'm Yasmim :octocat:</h2>
+![header](https://capsule-render.vercel.app/api?type=waving&color=2F4F4F&height=300&section=header&text=Hi there, I'm Yasmim :octocat:&fontSize=50&fontAlign=68&fontColor=ffffff)
 
 - **Current Working:** NTT DATA Inc. 
 - **Collaboration Interests:** Software Development and Process Automation
