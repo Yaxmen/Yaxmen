@@ -8,11 +8,11 @@ Contact: yasmimkarollinne@gmail.com or yasmimkarollinne@outlook.com.br </h5>
 <h3 align="left">Skills</h3>
 
 <p align="center">
-<img src="https://devicons.dev.br/icons?icon=Azure,AWS,VSCode,Eclipse,Selenium,Python,Powershell,Java,HTML,Bash,CS&size=40&theme=dark" alt="https://devicons.dev.br/" /></a>&nbsp </p>
+<img src="https://devicons.dev.br/icons?icon=Azure,AWS,VSCode,Eclipse,Selenium,Python,Powershell,Java,HTML,Bash,CS&size=40&theme=dark"/></a>&nbsp </p>
 
-<img src="https://devicons.dev.br/icons?icon=Ansible,FastAPI,Docker,PostgreSQL,MySQL,Linux,Regex,Grafana&size=40&theme=dark" alt="https://devicons.dev.br/" /></a>&nbsp </p>
+<img src="https://devicons.dev.br/icons?icon=Ansible,FastAPI,Docker,PostgreSQL,MySQL,Linux,Regex,Grafana&size=40&theme=dark"/></a>&nbsp </p>
 
-<img src="https://devicons.dev.br/icons?icon=Github,Git,Firebase,Photoshop&size=40&theme=dark" alt="https://devicons.dev.br/" /></a>&nbsp </p>
+<img src="https://devicons.dev.br/icons?icon=Github,Git,Firebase,Photoshop&size=40&theme=dark"/></a>&nbsp </p>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaxmen&show_icons=true&locale=en&layout=compact&theme=dark" alt="yaxmen" />
