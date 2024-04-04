@@ -12,4 +12,4 @@
 
 [![Skills](https://devicons.dev.br/icons?icon=Github,Git,Firebase,Photoshop&size=48&theme=dark)](https://devicons.dev.br/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaxmen&show_icons=true&locale=en&layout=compact" alt="yaxmen" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaxmen&show_icons=true&locale=en&layout=compact&theme=dark" alt="yaxmen" />
