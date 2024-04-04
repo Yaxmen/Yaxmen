@@ -2,12 +2,13 @@
 
 
 <h4 align="center">
-Hi. I am a Developer who lives in Brazil and Current Working at NTT DATA Inc. <br>
+Hi. I am a Developer who lives in Brazil and current working at NTT DATA Inc. <br>
 I have experience in Backend Development, Process Automation and DevOps. <br>
-Contact: yasmimkarollinne@gmail.com or yasmimkarollinne@outlook.com.br </h4>
+3x Microsoft Certified: AI-900, AZ-900, MS-900. <br>
+Contact: yasmimkarollinne@outlook.com.br </h4>
 
 
-<h3 align="center">Tech Stack 🛠</h3>
+<h3 align="center">Technologies & Tools 🛠</h3>
 
 <p align="center">
 <img src="https://devicons.dev.br/icons?icon=Azure,AWS,VSCode,Eclipse,Selenium,Python,Powershell,Java,HTML,Bash,CS&size=40&theme=dark"/></a>&nbsp
