@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=708090&height=150&section=header&text=Yasmim&fontSize=40&fontAlign=85&fontColor=ffffff)
 
-- **Current Working:** NTT DATA Inc. 
-- **Collaboration Interests:** Software Development and Process Automation
-- **Contact:** yasmimkarollinne@gmail.com or yasmimkarollinne@outlook.com.br 
+<h3 align="center">
+Hi. I am a Developer who lives in Brazil and Current Working NTT DATA Inc. <br>
+I have experience in backend development, Process Automation and DevOps. <br>
+Contact: yasmimkarollinne@gmail.com or yasmimkarollinne@outlook.com.br </h3>
 
 <h2 align="left">Skills</h2>
 
