@@ -1,9 +1,9 @@
-<h2 align="left">Hi there 👋, I'm Yasmim</h2>
+<h2 align="left">Hi there, I'm Yasmim 😉</h2>
 
 ~~~
-**Current Working:** NTT DATA Inc. 
-**Collaboration Interests:** Software Development and Process Automation
-**Contact:** yasmimkarollinne@gmail.com or yasmimkarollinne@outlook.com.br
+Current Working: NTT DATA Inc. 
+Collaboration Interests: Software Development and Process Automation
+Contact: yasmimkarollinne@gmail.com or yasmimkarollinne@outlook.com.br
 ~~~
 
 <h2 align="left">Skills</h2>
