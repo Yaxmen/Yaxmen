@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=150&section=header&text=Yasmim&fontSize=40&fontAlign=68&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=150&section=header&text=Yasmim&fontSize=40&fontAlign=58&fontColor=ffffff)
 
 - **Current Working:** NTT DATA Inc. 
 - **Collaboration Interests:** Software Development and Process Automation
