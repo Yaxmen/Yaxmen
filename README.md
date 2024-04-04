@@ -20,4 +20,6 @@ Contact: yasmimkarollinne@gmail.com or yasmimkarollinne@outlook.com.br </h4>
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaxmen&show_icons=true&locale=en&layout=compact&theme=dark" alt="yaxmen" />
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaxmen&show_icons=true&locale=en&layout=compact&theme=dark" alt="yaxmen" />
+</p>
