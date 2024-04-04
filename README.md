@@ -7,7 +7,8 @@ Contact: yasmimkarollinne@gmail.com or yasmimkarollinne@outlook.com.br </h5>
 
 <h3 align="left">Skills</h3>
 
-[![Skills](https://devicons.dev.br/icons?icon=Azure,AWS,VSCode,Eclipse,Selenium,Python,Powershell,Java,HTML,Bash,CS&size=40&theme=dark)](https://devicons.dev.br/)
+<p align="center">
+<img src="https://devicons.dev.br/icons?icon=Azure,AWS,VSCode,Eclipse,Selenium,Python,Powershell,Java,HTML,Bash,CS&size=40&theme=dark"/></a>&nbsp (https://devicons.dev.br/) </p>
 
 [![Skills](https://devicons.dev.br/icons?icon=Ansible,FastAPI,Docker,PostgreSQL,MySQL,Linux,Regex,Grafana&size=40&theme=dark)](https://devicons.dev.br/)
 
