@@ -9,9 +9,11 @@ Contact: yasmimkarollinne@gmail.com or yasmimkarollinne@outlook.com.br </h5>
 
 <p align="center">
 <img src="https://devicons.dev.br/icons?icon=Azure,AWS,VSCode,Eclipse,Selenium,Python,Powershell,Java,HTML,Bash,CS&size=40&theme=dark"/></a>&nbsp
-
+</p>
+<p align="center">
 <img src="https://devicons.dev.br/icons?icon=Ansible,FastAPI,Docker,PostgreSQL,MySQL,Linux,Regex,Grafana&size=40&theme=dark"/></a>&nbsp
-
+</p>
+<p align="center">
 <img src="https://devicons.dev.br/icons?icon=Github,Git,Firebase,Photoshop&size=40&theme=dark"/></a>&nbsp 
 </p>
 
