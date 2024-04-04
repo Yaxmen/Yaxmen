@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=363636&height=150&section=header&text=Welcome&fontSize=40&fontAlign=85&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=363636&height=150&section=header&text=Welcome&fontSize=30&fontAlign=85&fontColor=ffffff)
 
-<h5 align="center">
+<h4 align="center">
 Hi. I am a Developer who lives in Brazil and Current Working at NTT DATA Inc. <br>
 I have experience in Backend Development, Process Automation and DevOps. <br>
-Contact: yasmimkarollinne@gmail.com or yasmimkarollinne@outlook.com.br </h5>
+Contact: yasmimkarollinne@gmail.com or yasmimkarollinne@outlook.com.br </h4>
 
-<h3 align="centrer">Skills ⭐</h3>
+<h3 align="center">Skills ⭐</h3>
 
 <p align="center">
 <img src="https://devicons.dev.br/icons?icon=Azure,AWS,VSCode,Eclipse,Selenium,Python,Powershell,Java,HTML,Bash,CS&size=40&theme=dark"/></a>&nbsp
