@@ -7,8 +7,8 @@ Hi 👋. <br>
 I am a Developer who lives in Brazil and current working at NTT DATA Inc. <br>
 I have experience in Backend Development, Process Automation and DevOps. <br>
 3x Microsoft Certified: AI-900, AZ-900, MS-900. <br>
-</h4>
 
+</h4>
 
 <h3 align="center">Technologies & Tools 🛠</h3>
 
@@ -22,6 +22,8 @@ I have experience in Backend Development, Process Automation and DevOps. <br>
 
 <h3 align="center">Top Languages ⭐</h3>
 
-<p align="center"> 
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaxmen&show_icons=true&locale=en&layout=compact&theme=dark" alt="yaxmen" />
+
 </p>
