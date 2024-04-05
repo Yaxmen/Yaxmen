@@ -14,8 +14,10 @@ I have experience in Backend Development, Process Automation and DevOps. <br>
 
 <p align="center">
 [![Linguagens](https://devicons.dev.br/icons?icon=Azure,AWS,VSCode,Eclipse,Selenium,Python,Powershell,Java,HTML,Bash,CS&size=40&theme=dark)](https://devicons.dev.br/) <br> </p>
+
 <p align="center">
 [![Linguagens](https://devicons.dev.br/icons?icon=Ansible,FastAPI,Docker,PostgreSQL,MySQL,Linux,Regex,Grafana&size=40&theme=dark)](https://devicons.dev.br/) <br> </p>
+
 <p align="center">
 [![Linguagens](https://devicons.dev.br/icons?icon=Github,Git,Firebase,Photoshop&size=40&theme=dark)](https://devicons.dev.br/) <br> </p>
 
