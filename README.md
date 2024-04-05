@@ -1,4 +1,4 @@
-<h4 align="center">
+<h4 align="right">
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)](https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:yasmimkarollinne@gmail.com)](mailto:yasmimkarollinne@gmail.com)
@@ -9,7 +9,7 @@ I am a Developer who lives in Brazil and current working at NTT DATA Inc. <br>
 I have experience in Backend Development, Process Automation and DevOps. <br>
 3x Microsoft Certified: AI-900, AZ-900, MS-900. <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="100px" width="100px" align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="left">
 
 </h4>
 
