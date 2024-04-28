@@ -28,11 +28,3 @@ I have experience in Backend Development, Process Automation and DevOps. <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaxmen&show_icons=true&locale=en&layout=compact&theme=dark" alt="yaxmen" />
 
 </p>
-
-<h3 align="center">GitHub Profile Trophy 🏆</h3>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yaxmen&column=8&theme=darkhub&no-frame=true&no-bg=true" alt="yaxmen" />
-
-</p>
