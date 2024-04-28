@@ -17,7 +17,7 @@ I have experience in Backend Development, Process Automation and DevOps. <br>
 
 </h2>
 
-<h3 align="center">GitHub Top Languages ⭐</h3>
+<h3 align="center">Top Languages 👾</h3>
 
 <p align="center">
 
@@ -25,16 +25,10 @@ I have experience in Backend Development, Process Automation and DevOps. <br>
 
 </p>
 
-
-
-
-
-
-
-<h4 align="center">
+<h2 align="center">
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)](https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:yasmimkarollinne@gmail.com)](mailto:yasmimkarollinne@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/-Microsoft-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:yasmimkarollinne@outlook.com.br)](mailto:yasmimkarollinne@outlook.com.br) <br>
 
-</h4>
+</h2>
