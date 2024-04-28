@@ -25,6 +25,12 @@ I have experience in Backend Development, Process Automation and DevOps. <br>
 
 </p>
 
+
+
+
+
+
+
 <h4 align="center">
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)](https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)
