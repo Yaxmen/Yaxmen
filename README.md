@@ -31,9 +31,9 @@ I have experience in Backend Development, Process Automation and DevOps. <br>
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="20"/>
 <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" height="20"/>
-<img src="https://img.shields.io/badge/MySQL-%234ea94b.svg?&style=for-the-badge&logo=MySQL&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/sqlite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/microsoft sql server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="20"/>
+<img src="https://img.shields.io/badge/MySQL-%234ea94b.svg?&style=for-the-badge&logo=MySQL&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/visual studio code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/visual studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="20"/>
