@@ -21,7 +21,6 @@ I have experience in Backend Development, Process Automation and DevOps. <br>
 <img src="https://img.shields.io/badge/SQLalchemy-0C0C0E?logo=alchemy&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/Selenium-5C2D91?logo=Selenium&logoColor=white&style=for-the-badge" height="20"/>
-<img src="https://img.shields.io/badge/pyautogui-FCC624?logo=pyautogui&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/aws-cdk-FCC624?logo=aws-cdk&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/Splunk-%234ea94b.svg?&style=for-the-badge&logo=Splunk&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="20"/>
