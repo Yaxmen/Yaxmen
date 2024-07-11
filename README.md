@@ -9,23 +9,17 @@
 <h2 align="right">
 
 [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)](https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=Gmail&logoColor=white&link=mailto:yasmimkarollinne@gmail.com)](mailto:yasmimkarollinne@gmail.com)
-[![Microsoft Badge](https://img.shields.io/badge/Outlook-blue?style=flat-square&logo=Outlook&logoColor=white&link=mailto:yasmimkarollinne@outlook.com.br)](mailto:yasmimkarollinne@outlook.com.br) <br>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=Gmail&logoColor=white&link=mailto:yasmimkarollinne@gmail.com)](mailto:yasmimkarollinne@gmail.com)<br>
 
 </h2>
-
 </h4>
 
 ### Technologies & Tools 🛠
 
 <div align="center">  
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=008b46&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=008b46&text_color=ffffff&bg_color=0d1117" />
-
-</div>
-
-<h2 align="center">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=008b46&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=008b46&text_color=ffffff&bg_color=0d1117" />
 
 <img src="https://img.shields.io/badge/python-FCC624?logo=python&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/powershell-0089D6?logo=powershell&logoColor=white&style=for-the-badge" height="20"/>
@@ -53,4 +47,6 @@
 <img src="https://img.shields.io/badge/MySQL-%234ea94b.svg?&style=for-the-badge&logo=MySQL&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/visual studio code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="20"/>
-<img src="https://img.shields.io/badge/visual studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="20"/> </h2>
+<img src="https://img.shields.io/badge/visual studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="20"/> 
+
+</div>
