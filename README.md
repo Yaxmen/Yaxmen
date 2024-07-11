@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/python-FCC624?logo=python&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/powershell-0089D6?logo=powershell&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/HTML5-5C2D91?logo=HTML5&logoColor=white&style=for-the-badge" height="20"/>
+<img src="https://img.shields.io/badge/Java-003B57?logo=Java&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/ansible-CC2927?logo=ansible&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/fastapi-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="20"/>
