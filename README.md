@@ -18,8 +18,12 @@
 
 <div align="center">  
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=008b46&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=008b46&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=008b46&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=008b46&text_color=ffffff&bg_color=0d1117" />
+
+</div>
+
+<h2 align="center">
 
 <img src="https://img.shields.io/badge/python-FCC624?logo=python&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/powershell-0089D6?logo=powershell&logoColor=white&style=for-the-badge" height="20"/>
@@ -49,4 +53,4 @@
 <img src="https://img.shields.io/badge/visual studio code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/visual studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="20"/> 
 
-</div>
+</h2>
