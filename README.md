@@ -1,13 +1,21 @@
-<h4 align="center">
+<h4 align="right">
 
-Hi 👋. <br>
-I am a Developer who lives in Brazil and current working at NTT DATA Inc. <br>
-I have experience in Backend Development, Process Automation and DevOps. <br>
-3x Microsoft Certified: AI-900, AZ-900, MS-900. <br>
+# Hi 👋.
+
+- I am a Developer who lives in Brazil and current working at NTT DATA Inc. <br>
+- I have experience in Backend Development, Process Automation and DevOps. <br>
+- 3x Microsoft Certified: AI-900, AZ-900, MS-900. <br>
 
 </h4>
 
-<h3 align="center">Technologies & Tools 🛠</h3>
+### Technologies & Tools 🛠
+
+<div align="center">  
+
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
+
+</div>
 
 <h2 align="center">
 
