@@ -20,7 +20,7 @@
 
 <div align="center">  
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=00468b&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=008b46&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 
 </div>
