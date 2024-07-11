@@ -1,6 +1,6 @@
 <h4 align="right">
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Yasmim Duarte](https://www.linkedin.com/in/yasmimkarollinne/)!
+### Hello, I'm [Yasmim Duarte](https://www.linkedin.com/in/yasmimkarollinne/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 - I am a Developer who lives in Brazil and current working at NTT DATA Inc. <br>
 - I have experience in Backend Development, Process Automation and DevOps. <br>
