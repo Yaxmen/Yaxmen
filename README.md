@@ -1,6 +1,6 @@
 <h4 align="right">
 
-# Hi 👋.
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Yasmim Duarte](https://www.linkedin.com/in/yasmimkarollinne/)!
 
 - I am a Developer who lives in Brazil and current working at NTT DATA Inc. <br>
 - I have experience in Backend Development, Process Automation and DevOps. <br>
@@ -49,15 +49,7 @@
 
 </h2>
 
-<h3 align="center">Top Languages 👾</h3>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaxmen&show_icons=true&locale=en&layout=compact&theme=dark" alt="yaxmen" />
-
-</p>
-
-<h2 align="center">
+<h2 align="right">
 
 [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)](https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=Gmail&logoColor=white&link=mailto:yasmimkarollinne@gmail.com)](mailto:yasmimkarollinne@gmail.com)
