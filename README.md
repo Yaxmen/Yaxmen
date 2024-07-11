@@ -6,6 +6,14 @@
 - I have experience in Backend Development, Process Automation and DevOps. <br>
 - 3x Microsoft Certified: AI-900, AZ-900, MS-900. <br>
 
+<h4 align="right">
+
+[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)](https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=Gmail&logoColor=white&link=mailto:yasmimkarollinne@gmail.com)](mailto:yasmimkarollinne@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:yasmimkarollinne@outlook.com.br)](mailto:yasmimkarollinne@outlook.com.br) <br>
+
+</h4>
+
 </h4>
 
 ### Technologies & Tools 🛠
@@ -48,11 +56,3 @@
 <img src="https://img.shields.io/badge/visual studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="20"/>
 
 </h2>
-
-<h4 align="right">
-
-[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)](https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=Gmail&logoColor=white&link=mailto:yasmimkarollinne@gmail.com)](mailto:yasmimkarollinne@gmail.com)
-[![Outlook Badge](https://img.shields.io/badge/Microsoft-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:yasmimkarollinne@outlook.com.br)](mailto:yasmimkarollinne@outlook.com.br) <br>
-
-</h4>
