@@ -1,6 +1,6 @@
 <h4 align="right">
 
-## Hello, I'm [Yasmim Duarte](https://www.linkedin.com/in/yasmimkarollinne/) ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Hello, I'm [Yasmim](https://www.linkedin.com/in/yasmimkarollinne/) ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 - I am a Developer who lives in Brazil and current working at NTT DATA Inc. <br>
 - I have experience in Backend Development, Process Automation and DevOps. <br>
@@ -18,8 +18,8 @@
 
 <div align="center">  
 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=008b46&icon_color=b81414&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim github stats"/> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=ffdb58&text_color=ffffff&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=008b46&icon_color=b81414&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=ffdb58&text_color=ffffff&bg_color=0d1117"/>
 
 </div>
 
