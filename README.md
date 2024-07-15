@@ -30,7 +30,6 @@
 <img src="https://img.shields.io/badge/HTML5-5C2D91?logo=HTML5&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/Java-003B57?logo=Java&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/ansible-CC2927?logo=ansible&logoColor=white&style=for-the-badge" height="20"/>
-<img src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/fastapi-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/SQLalchemy-0C0C0E?logo=alchemy&logoColor=white&style=for-the-badge" height="20"/>
@@ -39,7 +38,6 @@
 <img src="https://img.shields.io/badge/aws-cdk-FCC624?logo=aws-cdk&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/Splunk-%234ea94b.svg?&style=for-the-badge&logo=Splunk&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="20"/>
-<img src="https://img.shields.io/badge/azure functions-0062AD?logo=azurefunctions&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/azure devops-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/power automate-0078D7?logo=power automate&logoColor=white&style=for-the-badge" height="20"/>
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" height="20"/>
