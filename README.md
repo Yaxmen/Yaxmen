@@ -8,7 +8,7 @@
 
 </h4>
 
-<h2 align="center">
+<h2 align="left">
 
 [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)](https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=Gmail&logoColor=white&link=mailto:yasmimkarollinne@gmail.com)](mailto:yasmimkarollinne@gmail.com)
@@ -19,8 +19,8 @@
 
 <div align="center">  
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=008b46&icon_color=b81414&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim's GitHub stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=723172&text_color=ffffff&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=4F9DA6&icon_color=4F9DA6&text_color=ffffff&bg_color=2E3440" alt="Yasmim's GitHub stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=4F9DA6&text_color=ffffff&bg_color=2E3440"/>
 
 </div>
 
