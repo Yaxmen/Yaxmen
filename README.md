@@ -12,9 +12,7 @@
 <h2 align="left">
 
 [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)](https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=Gmail&logoColor=white&link=mailto:yasmimkarollinne@gmail.com)](mailto:yasmimkarollinne@gmail.com)
-
-</h2>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=Gmail&logoColor=white&link=mailto:yasmimkarollinne@gmail.com)](mailto:yasmimkarollinne@gmail.com) </h2>
 
 ## Technologies & Tools 🛠
 
