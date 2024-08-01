@@ -19,8 +19,8 @@
 
 <div align="center">  
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=4F9DA6&icon_color=4F9DA6&text_color=ffffff&bg_color=2E3440" alt="Yasmim's GitHub stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=4F9DA6&text_color=ffffff&bg_color=2E3440"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=4F9DA6&icon_color=4F9DA6&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim's GitHub stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=4F9DA6&text_color=c9d1d9&bg_color=0d1117"/>
 
 </div>
 
