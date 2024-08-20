@@ -4,7 +4,7 @@
 
 - I am a Developer who lives in Brazil and is currently working at NTT DATA Inc. <br>
 - I have experience in Backend Development, Process Automation, and DevOps. <br>
-- Certified in Microsoft: AI-900, AZ-900, MS-900. <br>
+- 3x Certified in Microsoft: AI-900, AZ-900, MS-900. <br>
 - View my certifications [here](https://github.com/Yaxmen/Yaxmen/tree/main/Certification). <br>
 
 </h4>
