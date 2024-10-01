@@ -6,7 +6,7 @@
 - I have experience in Backend Development, Process Automation, and DevOps. <br>
 - 3x Certified in Microsoft: AI-900, AZ-900, MS-900. <br>
 - View my certifications [here](https://github.com/Yaxmen/Yaxmen/tree/main/Certification). <br>
-- View my GitHub.io [here](https://yaxmen.github.io/). <br>
+- View my projects [here](https://yaxmen.github.io/). <br>
 
 </h4>
 
