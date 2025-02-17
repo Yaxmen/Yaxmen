@@ -1,22 +1,66 @@
-<h4 align="right">
+<h1 align="center">
+  Hello, I'm Yasmim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
-## Hello, I'm [Yasmim](https://www.linkedin.com/in/yasmimkarollinne/) ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h3 align="center">
+  Developer | Process Automation | DevOps
+</h3>
 
-- I am a Developer who lives in Brazil and is currently working at NTT DATA Inc. <br>
-- I have experience in Backend Development, Process Automation, and DevOps. <br>
-- 3x Certified in Microsoft: AI-900, AZ-900, MS-900. <br>
-- View my certifications [here](https://github.com/Yaxmen/Yaxmen/tree/main/Certification). <br>
-- View my projects [here](https://yaxmen.github.io/). <br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasmimkarollinne/">LinkedIn</a> •
+  <a href="https://yaxmen.github.io/">Portfolio</a> •
+  <a href="https://github.com/Yaxmen/Yaxmen/tree/main/Certification">Certifications</a>
+</p>
 
-</h4>
+<p align="center">
+  I am a Developer based in Brazil, currently working at <strong>NTT DATA Inc</strong>. <br>
+  With experience in <strong>Backend Development</strong>, <strong>Process Automation</strong>, and <strong>DevOps</strong>, <br>
+  I am passionate about building efficient and scalable solutions. <br>
+  3x Microsoft Certified: AI-900, AZ-900, MS-900.
+</p>
 
-<h2 align="right">
+---
 
-[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581995052895&text=Olá!)](https://api.whatsapp.com/send?phone=5581995052895&text=Olá!) </h2>
+### 🛠️ Technologies & Tools
 
-<div align="center">  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/ServiceNow-FF6C37?style=flat&logo=servicenow&logoColor=white" alt="ServiceNow">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure">
+</p>
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=4F9DA6&icon_color=4F9DA6&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim's GitHub stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=4F9DA6&text_color=c9d1d9&bg_color=0d1117"/>
-
 </div>
+
+---
+
+### 📞 Let's Connect!
+
+<p align="center">
+  <a href="https://api.whatsapp.com/send?phone=5581995052895&text=Olá!">
+    <img src="https://img.shields.io/badge/Whatsapp-4CA143?style=flat&logo=Whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:yasmimkarollinne@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/yasmimkarollinne/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yaxmen&color=4F9DA6&style=flat" alt="Profile Views">
+</p>
