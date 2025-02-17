@@ -43,7 +43,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yaxmen&color=4F9DA6&style=flat" alt="Profile Views">
-</p>
