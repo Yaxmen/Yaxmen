@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I am a Developer who lives in Brazil and is currently working at <strong>NTT DATA Inc</strong>. <br>
+  I am a Developer who lives in Brazil and is currently working at <strong>NTT DATA, Inc</strong>. <br>
   With experience in <strong>Backend Development</strong>, <strong>Process Automation</strong>, and <strong>DevOps</strong>, <br>
   I am passionate about building efficient and scalable solutions. <br>
   3x Microsoft Certified: AI-900, AZ-900, MS-900.
