@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yasmimkarollinne/">LinkedIn</a> •
-  <a href="https://yaxmen.github.io/">Portfolio</a> •
+  <a href="https://github.com/Yaxmen/Yaxmen/blob/main/Resume/yasmim-resume.pdf">Resume</a> •
   <a href="https://github.com/Yaxmen/Yaxmen/tree/main/Certification">Certifications</a>
 </p>
 
