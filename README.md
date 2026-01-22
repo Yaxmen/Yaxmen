@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Developer | Process Automation | DevOps
+  Tech Lead | Automation & Platform Engineering | RPA · Ansible · Python
 </h3>
 
 <p align="center">
