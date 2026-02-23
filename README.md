@@ -1,5 +1,5 @@
 <h1 align="center">
-  Yasmim Duarte
+  👩🏻‍💻 Yasmim Duarte
 </h1>
 
 <h3 align="center">
@@ -16,69 +16,96 @@
 
 ## 🚀 About Me
 
-Tech Lead with 11+ years in Technology, specialized in designing and scaling enterprise automation platforms.
+Tech Lead with 11+ years in Technology, focused on building **scalable automation platforms** in critical enterprise environments.
 
-Currently leading large-scale infrastructure automation initiatives at **NTT DATA**, working on mission-critical environments in the Energy sector.
+Currently leading automation initiatives at **NTT DATA**, driving:
 
-I build automation ecosystems — not just scripts.
+- 🔹 Automation of 300+ servers using Ansible Automation Platform  
+- 🔹 60% deployment time reduction  
+- 🔹 CloudOps practices in Azure  
+- 🔹 Infrastructure orchestration & platform reliability  
 
-My focus:
-- Platform Engineering
+I specialize in designing **observable, scalable, and sustainable automation architectures**, bridging business and engineering through code.
+
+---
+
+## 🧠 Core Expertise
+
+### ⚙️ Automation & Platform Engineering
+- Ansible Automation Platform (AAP)
 - Infrastructure as Code
-- CloudOps (Azure, AWS, GCP)
-- Ansible Automation Platform (Enterprise)
-- Generative AI applied to operations
-- Observability & reliability engineering
-
----
-
-## 🏗️ What I Do
-
-- Lead automation of 300+ servers using Ansible Automation Platform
-- Reduced deployment time by 60% in large-scale environments
-- Design end-to-end automation architectures
-- Apply DevOps and SRE principles in enterprise ecosystems
-- Integrate systems through APIs and event-driven automation
-- Mentor engineers and define technical standards
-
----
-
-## 🧠 Tech Stack
+- Process Automation (RPA / Cloud Automation)
+- YAML Orchestration
+- REST API Integrations
 
 ### ☁️ Cloud & DevOps
-Azure · AWS · Google Cloud · Docker · Terraform · GitHub Actions · Azure Pipelines
+- Azure · AWS · GCP
+- GitHub Actions · Azure Pipelines
+- Docker · Terraform
+- Observability (Grafana · Zabbix · Splunk)
 
-### 🤖 Automation & AI
-Ansible Automation Platform · Python · PowerShell · YAML · Generative AI (Azure OpenAI · GCP · AWS)
+### 👩🏻‍💻 Languages
+- Python
+- PowerShell
+- JavaScript
+- Java
+- SQL / NoSQL
 
-### 💻 Languages
-Python · JavaScript · PowerShell · Java · SQL · NoSQL
+### 🤖 AI & Emerging Tech
+- Generative AI (Azure OpenAI / GCP / AWS)
+- RAG Architectures
+- AI-driven automation pipelines
 
-### 📊 Observability
-Zabbix · Grafana · Splunk
+---
+
+## 📊 Impact Metrics
+
+- 📈 300+ enterprise servers automated
+- ⏱ 60% reduction in deployment time
+- 🔎 40% reduction in false monitoring alerts
+- 🧩 Custom ServiceNow module development
+- 👩🏻‍🏫 Technical leadership & mentorship
+
+---
+
+## 🏆 Certifications
+
+- Microsoft AZ-900
+- Microsoft AI-900
+- Microsoft MS-900
+- AWS DevOps Engineer
+- ITIL Foundation
+- DevOps Essentials
+- Scrum Foundation
+- Fortinet NSE 1 & 2
+- Splunk Power User
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim's GitHub stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=00F5D4&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 ---
 
-## 🎯 Vision
+## 🌌 Engineering Philosophy
 
-I believe automation is not about eliminating work.
-It is about engineering reliability, scalability, and strategic leverage.
+> Automation is not about replacing humans.  
+> It is about elevating them to higher-order problem solving.
 
-My goal is to design intelligent platforms that connect infrastructure, data, and AI — transforming operations into autonomous systems.
+I build platforms — not scripts.  
+I design systems — not isolated automations.  
+I scale engineering — not manual processes.
 
 ---
 
+## 📫 Connect
+
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=5581995052895&text=Olá!">
-    <img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-00F0FF?style=for-the-badge&logo=whatsapp&logoColor=black" />
   </a>
 </p>
