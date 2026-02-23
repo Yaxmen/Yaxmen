@@ -66,20 +66,6 @@ Zabbix · Grafana · Splunk
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=00F5D4&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
----
-
-## 🏅 Certifications
-
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft Azure AI Fundamentals (AI-900)
-- Microsoft 365 Fundamentals (MS-900)
-- AWS Certified DevOps Engineer
-- DevOps Essentials Professional Certificate
-- ITIL Foundation
-- Splunk Power User
-
----
-
 ## 🎯 Vision
 
 I believe automation is not about eliminating work.
