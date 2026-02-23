@@ -58,34 +58,10 @@ I specialize in designing **observable, scalable, and sustainable automation arc
 
 ---
 
-## 📊 Impact Metrics
-
-- 📈 300+ enterprise servers automated
-- ⏱ 60% reduction in deployment time
-- 🔎 40% reduction in false monitoring alerts
-- 🧩 Custom ServiceNow module development
-- 👩🏻‍🏫 Technical leadership & mentorship
-
----
-
-## 🏆 Certifications
-
-- Microsoft AZ-900
-- Microsoft AI-900
-- Microsoft MS-900
-- AWS DevOps Engineer
-- ITIL Foundation
-- DevOps Essentials
-- Scrum Foundation
-- Fortinet NSE 1 & 2
-- Splunk Power User
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Yaxmen&show_icons=true&count_private=true&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&bg_color=0d1117" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxmen&layout=compact&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
