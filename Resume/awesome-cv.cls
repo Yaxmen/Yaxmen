@@ -104,7 +104,7 @@
 \definecolor{black}{HTML}{000000}
 \definecolor{darkgray}{HTML}{333333}
 \definecolor{gray}{HTML}{5D5D5D}
-\definecolor{lightgray}{HTML}{999999}
+\definecolor{darkgray}{HTML}{999999}
 % Basic colors
 \definecolor{green}{HTML}{C2E15F}
 \definecolor{orange}{HTML}{FDA333}
@@ -113,7 +113,7 @@
 \definecolor{blue}{HTML}{000080}
 % Text colors
 \definecolor{darktext}{HTML}{414141}
-\colorlet{text}{darkgray}
+\colorlet{text}{black}
 \colorlet{graytext}{gray}
 \colorlet{lighttext}{lightgray}
 % Awesome colors
@@ -125,7 +125,11 @@
 \definecolor{awesome-nephritis}{HTML}{27AE60}
 \definecolor{awesome-concrete}{HTML}{95A5A6}
 \definecolor{awesome-darknight}{HTML}{131A28}
-\colorlet{awesome}{awesome-red}
+\definecolor{awesome-deepblue}{HTML}{0F172A}
+\definecolor{awesome-cyberpurple}{HTML}{6D28D9}
+\definecolor{awesome-emeraldenterprise}{HTML}{065F46}
+\definecolor{awesome-black}{HTML}{000000}
+\colorlet{awesome}{awesome-pink}
 
 % Boolean value to switch section color highlighting
 \newbool{acvSectionColorHighlight}
